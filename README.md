@@ -1,1 +1,2 @@
 # tsserver
+tsserver.log file
